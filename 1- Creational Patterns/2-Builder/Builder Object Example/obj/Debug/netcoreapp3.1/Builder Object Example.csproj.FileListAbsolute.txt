@@ -1,0 +1,13 @@
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\2-Builder\Builder Object Example\bin\Debug\netcoreapp3.1\Builder Object Example.exe
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\2-Builder\Builder Object Example\bin\Debug\netcoreapp3.1\Builder Object Example.deps.json
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\2-Builder\Builder Object Example\bin\Debug\netcoreapp3.1\Builder Object Example.runtimeconfig.json
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\2-Builder\Builder Object Example\bin\Debug\netcoreapp3.1\Builder Object Example.runtimeconfig.dev.json
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\2-Builder\Builder Object Example\bin\Debug\netcoreapp3.1\Builder Object Example.dll
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\2-Builder\Builder Object Example\bin\Debug\netcoreapp3.1\Builder Object Example.pdb
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\2-Builder\Builder Object Example\obj\Debug\netcoreapp3.1\Builder Object Example.csprojAssemblyReference.cache
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\2-Builder\Builder Object Example\obj\Debug\netcoreapp3.1\Builder Object Example.csproj.CoreCompileInputs.cache
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\2-Builder\Builder Object Example\obj\Debug\netcoreapp3.1\Builder Object Example.AssemblyInfoInputs.cache
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\2-Builder\Builder Object Example\obj\Debug\netcoreapp3.1\Builder Object Example.AssemblyInfo.cs
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\2-Builder\Builder Object Example\obj\Debug\netcoreapp3.1\Builder Object Example.dll
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\2-Builder\Builder Object Example\obj\Debug\netcoreapp3.1\Builder Object Example.pdb
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\2-Builder\Builder Object Example\obj\Debug\netcoreapp3.1\Builder Object Example.genruntimeconfig.cache
