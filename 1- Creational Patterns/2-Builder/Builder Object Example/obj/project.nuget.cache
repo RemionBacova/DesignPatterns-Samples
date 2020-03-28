@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HU+FSjdJJo3vXuByXiTZfVj3HysZ/lPSVFQBQUzhbl6/nMnIc8ZAnAz4wpvMGHZzypWTHd+STXM8mCsVq6JHuw==",
+  "dgSpecHash": "f/knczIQbN82G7juW4BJ82D0s0WLnkySEQDJzjyBg59zCKa8/Uk8W8celfr5CfjFcM+aw2UG7LgB5ONTwZDGDA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\remio\\OneDrive\\Desktop\\Learning C Sharp Design Patterns - Working Files\\1-Creational Patterns\\2-Builder\\Builder Object Example\\Builder Object Example.csproj",
+  "projectFilePath": "C:\\Users\\remio\\Documents\\DesignPatterns-Samples\\1- Creational Patterns\\2-Builder\\Builder Object Example\\Builder Object Example.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\remio\\OneDrive\\Desktop\\Learning C Sharp Design Patterns - Working Files\\1-Creational Patterns\\1-AbstractFactory\\AbstractFactory Object Example\\AbstractFactory Object Example.csproj": {}
+    "C:\\Users\\remio\\Documents\\DesignPatterns-Samples\\1- Creational Patterns\\1-AbstractFactory\\AbstractFactory Object Example\\AbstractFactory Object Example.csproj": {}
   },
   "projects": {
-    "C:\\Users\\remio\\OneDrive\\Desktop\\Learning C Sharp Design Patterns - Working Files\\1-Creational Patterns\\1-AbstractFactory\\AbstractFactory Object Example\\AbstractFactory Object Example.csproj": {
+    "C:\\Users\\remio\\Documents\\DesignPatterns-Samples\\1- Creational Patterns\\1-AbstractFactory\\AbstractFactory Object Example\\AbstractFactory Object Example.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\remio\\OneDrive\\Desktop\\Learning C Sharp Design Patterns - Working Files\\1-Creational Patterns\\1-AbstractFactory\\AbstractFactory Object Example\\AbstractFactory Object Example.csproj",
+        "projectUniqueName": "C:\\Users\\remio\\Documents\\DesignPatterns-Samples\\1- Creational Patterns\\1-AbstractFactory\\AbstractFactory Object Example\\AbstractFactory Object Example.csproj",
         "projectName": "AbstractFactory Object Example",
-        "projectPath": "C:\\Users\\remio\\OneDrive\\Desktop\\Learning C Sharp Design Patterns - Working Files\\1-Creational Patterns\\1-AbstractFactory\\AbstractFactory Object Example\\AbstractFactory Object Example.csproj",
+        "projectPath": "C:\\Users\\remio\\Documents\\DesignPatterns-Samples\\1- Creational Patterns\\1-AbstractFactory\\AbstractFactory Object Example\\AbstractFactory Object Example.csproj",
         "packagesPath": "C:\\Users\\remio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\remio\\OneDrive\\Desktop\\Learning C Sharp Design Patterns - Working Files\\1-Creational Patterns\\1-AbstractFactory\\AbstractFactory Object Example\\obj\\",
+        "outputPath": "C:\\Users\\remio\\Documents\\DesignPatterns-Samples\\1- Creational Patterns\\1-AbstractFactory\\AbstractFactory Object Example\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\remio\\AppData\\Roaming\\NuGet\\NuGet.Config",
