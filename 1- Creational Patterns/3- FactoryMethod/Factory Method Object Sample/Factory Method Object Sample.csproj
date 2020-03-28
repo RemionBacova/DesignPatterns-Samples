@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Factory_Method_Object_Sample</RootNamespace>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="ReadMe.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="ReadMe.txt" />
+  </ItemGroup>
+
+</Project>
