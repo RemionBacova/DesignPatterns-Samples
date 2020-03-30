@@ -1,0 +1,13 @@
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\4- Prototype\Prototype Object Sample\bin\Debug\netcoreapp3.1\Prototype Object Sample.exe
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\4- Prototype\Prototype Object Sample\bin\Debug\netcoreapp3.1\Prototype Object Sample.deps.json
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\4- Prototype\Prototype Object Sample\bin\Debug\netcoreapp3.1\Prototype Object Sample.runtimeconfig.json
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\4- Prototype\Prototype Object Sample\bin\Debug\netcoreapp3.1\Prototype Object Sample.runtimeconfig.dev.json
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\4- Prototype\Prototype Object Sample\bin\Debug\netcoreapp3.1\Prototype Object Sample.dll
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\4- Prototype\Prototype Object Sample\bin\Debug\netcoreapp3.1\Prototype Object Sample.pdb
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\4- Prototype\Prototype Object Sample\obj\Debug\netcoreapp3.1\Prototype Object Sample.csprojAssemblyReference.cache
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\4- Prototype\Prototype Object Sample\obj\Debug\netcoreapp3.1\Prototype Object Sample.csproj.CoreCompileInputs.cache
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\4- Prototype\Prototype Object Sample\obj\Debug\netcoreapp3.1\Prototype Object Sample.AssemblyInfoInputs.cache
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\4- Prototype\Prototype Object Sample\obj\Debug\netcoreapp3.1\Prototype Object Sample.AssemblyInfo.cs
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\4- Prototype\Prototype Object Sample\obj\Debug\netcoreapp3.1\Prototype Object Sample.dll
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\4- Prototype\Prototype Object Sample\obj\Debug\netcoreapp3.1\Prototype Object Sample.pdb
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\4- Prototype\Prototype Object Sample\obj\Debug\netcoreapp3.1\Prototype Object Sample.genruntimeconfig.cache
