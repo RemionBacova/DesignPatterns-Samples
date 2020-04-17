@@ -1,0 +1,13 @@
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\5- Singleton\Singleton Object Example\bin\Debug\netcoreapp3.1\Singleton Object Example.exe
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\5- Singleton\Singleton Object Example\bin\Debug\netcoreapp3.1\Singleton Object Example.deps.json
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\5- Singleton\Singleton Object Example\bin\Debug\netcoreapp3.1\Singleton Object Example.runtimeconfig.json
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\5- Singleton\Singleton Object Example\bin\Debug\netcoreapp3.1\Singleton Object Example.runtimeconfig.dev.json
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\5- Singleton\Singleton Object Example\bin\Debug\netcoreapp3.1\Singleton Object Example.dll
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\5- Singleton\Singleton Object Example\bin\Debug\netcoreapp3.1\Singleton Object Example.pdb
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\5- Singleton\Singleton Object Example\obj\Debug\netcoreapp3.1\Singleton Object Example.csproj.CoreCompileInputs.cache
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\5- Singleton\Singleton Object Example\obj\Debug\netcoreapp3.1\Singleton Object Example.AssemblyInfoInputs.cache
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\5- Singleton\Singleton Object Example\obj\Debug\netcoreapp3.1\Singleton Object Example.AssemblyInfo.cs
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\5- Singleton\Singleton Object Example\obj\Debug\netcoreapp3.1\Singleton Object Example.dll
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\5- Singleton\Singleton Object Example\obj\Debug\netcoreapp3.1\Singleton Object Example.pdb
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\5- Singleton\Singleton Object Example\obj\Debug\netcoreapp3.1\Singleton Object Example.genruntimeconfig.cache
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\5- Singleton\Singleton Object Example\obj\Debug\netcoreapp3.1\Singleton Object Example.csprojAssemblyReference.cache

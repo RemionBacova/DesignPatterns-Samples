@@ -5,9 +5,16 @@ using System.Text;
 
 namespace Singleton_Object_Example.Models.Writers.Abstract
 {
-    class WriterAbstract : IWriter
+    public abstract class WriterAbstract : IWriter
     {
-        public void Write(string Msg)
+        public string Msg { get; set; }
+
+        public  void Compile()
+        {
+            Msg = DateTime.Now.ToString()+ "|" + Msg;
+        }
+
+        public void Write()
         {
             Services.FileWriter.Instance.WriteLine(Msg);
         }

@@ -6,6 +6,11 @@ namespace Singleton_Object_Example.Interfaces
 {
     public interface IWriter
     {
-        public void Write(string Msg);
+        public String Msg { get; set; }
+        public void Write();
+
+        public void Compile();
     }
+
+
 }

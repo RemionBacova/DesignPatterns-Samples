@@ -34,8 +34,11 @@ namespace Singleton_Object_Example.Services
 
         public void WriteLine(string Msg)
         {
-            _StreamWriter.WriteLine(Msg);
-            _StreamWriter.Flush();
+            lock (_Lock)
+            {
+                _StreamWriter.WriteLine(Msg);
+                _StreamWriter.Flush();
+            }
         }
      
     }
