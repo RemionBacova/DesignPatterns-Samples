@@ -1,0 +1,13 @@
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\Chapter 3\1- Adapter\Adapter Sample Objects\bin\Debug\netcoreapp3.1\Adapter Sample Objects.exe
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\Chapter 3\1- Adapter\Adapter Sample Objects\bin\Debug\netcoreapp3.1\Adapter Sample Objects.deps.json
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\Chapter 3\1- Adapter\Adapter Sample Objects\bin\Debug\netcoreapp3.1\Adapter Sample Objects.runtimeconfig.json
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\Chapter 3\1- Adapter\Adapter Sample Objects\bin\Debug\netcoreapp3.1\Adapter Sample Objects.runtimeconfig.dev.json
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\Chapter 3\1- Adapter\Adapter Sample Objects\bin\Debug\netcoreapp3.1\Adapter Sample Objects.dll
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\Chapter 3\1- Adapter\Adapter Sample Objects\bin\Debug\netcoreapp3.1\Adapter Sample Objects.pdb
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\Chapter 3\1- Adapter\Adapter Sample Objects\obj\Debug\netcoreapp3.1\Adapter Sample Objects.csprojAssemblyReference.cache
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\Chapter 3\1- Adapter\Adapter Sample Objects\obj\Debug\netcoreapp3.1\Adapter Sample Objects.csproj.CoreCompileInputs.cache
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\Chapter 3\1- Adapter\Adapter Sample Objects\obj\Debug\netcoreapp3.1\Adapter Sample Objects.AssemblyInfoInputs.cache
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\Chapter 3\1- Adapter\Adapter Sample Objects\obj\Debug\netcoreapp3.1\Adapter Sample Objects.AssemblyInfo.cs
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\Chapter 3\1- Adapter\Adapter Sample Objects\obj\Debug\netcoreapp3.1\Adapter Sample Objects.dll
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\Chapter 3\1- Adapter\Adapter Sample Objects\obj\Debug\netcoreapp3.1\Adapter Sample Objects.pdb
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\Chapter 3\1- Adapter\Adapter Sample Objects\obj\Debug\netcoreapp3.1\Adapter Sample Objects.genruntimeconfig.cache
