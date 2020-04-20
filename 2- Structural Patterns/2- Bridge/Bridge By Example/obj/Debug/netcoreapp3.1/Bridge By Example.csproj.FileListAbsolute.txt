@@ -1,0 +1,13 @@
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\Chapter 3\2- Bridge\Bridge By Example\obj\Debug\netcoreapp3.1\Bridge By Example.csprojAssemblyReference.cache
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\Chapter 3\2- Bridge\Bridge By Example\obj\Debug\netcoreapp3.1\Bridge By Example.csproj.CoreCompileInputs.cache
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\Chapter 3\2- Bridge\Bridge By Example\obj\Debug\netcoreapp3.1\Bridge By Example.AssemblyInfoInputs.cache
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\Chapter 3\2- Bridge\Bridge By Example\obj\Debug\netcoreapp3.1\Bridge By Example.AssemblyInfo.cs
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\Chapter 3\2- Bridge\Bridge By Example\bin\Debug\netcoreapp3.1\Bridge By Example.exe
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\Chapter 3\2- Bridge\Bridge By Example\bin\Debug\netcoreapp3.1\Bridge By Example.deps.json
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\Chapter 3\2- Bridge\Bridge By Example\bin\Debug\netcoreapp3.1\Bridge By Example.runtimeconfig.json
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\Chapter 3\2- Bridge\Bridge By Example\bin\Debug\netcoreapp3.1\Bridge By Example.runtimeconfig.dev.json
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\Chapter 3\2- Bridge\Bridge By Example\bin\Debug\netcoreapp3.1\Bridge By Example.dll
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\Chapter 3\2- Bridge\Bridge By Example\bin\Debug\netcoreapp3.1\Bridge By Example.pdb
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\Chapter 3\2- Bridge\Bridge By Example\obj\Debug\netcoreapp3.1\Bridge By Example.dll
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\Chapter 3\2- Bridge\Bridge By Example\obj\Debug\netcoreapp3.1\Bridge By Example.pdb
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\Chapter 3\2- Bridge\Bridge By Example\obj\Debug\netcoreapp3.1\Bridge By Example.genruntimeconfig.cache

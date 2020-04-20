@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Bridge By Example/1.0.0": {
+        "runtime": {
+          "Bridge By Example.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bridge By Example/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
