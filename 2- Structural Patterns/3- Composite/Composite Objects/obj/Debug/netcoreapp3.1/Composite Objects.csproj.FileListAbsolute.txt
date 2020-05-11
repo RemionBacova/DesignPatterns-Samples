@@ -1,0 +1,13 @@
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\2- Structural\3- Composite\Composite Objects\bin\Debug\netcoreapp3.1\Composite Objects.exe
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\2- Structural\3- Composite\Composite Objects\bin\Debug\netcoreapp3.1\Composite Objects.deps.json
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\2- Structural\3- Composite\Composite Objects\bin\Debug\netcoreapp3.1\Composite Objects.runtimeconfig.json
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\2- Structural\3- Composite\Composite Objects\bin\Debug\netcoreapp3.1\Composite Objects.runtimeconfig.dev.json
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\2- Structural\3- Composite\Composite Objects\bin\Debug\netcoreapp3.1\Composite Objects.dll
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\2- Structural\3- Composite\Composite Objects\bin\Debug\netcoreapp3.1\Composite Objects.pdb
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\2- Structural\3- Composite\Composite Objects\obj\Debug\netcoreapp3.1\Composite Objects.csprojAssemblyReference.cache
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\2- Structural\3- Composite\Composite Objects\obj\Debug\netcoreapp3.1\Composite Objects.csproj.CoreCompileInputs.cache
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\2- Structural\3- Composite\Composite Objects\obj\Debug\netcoreapp3.1\Composite Objects.AssemblyInfoInputs.cache
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\2- Structural\3- Composite\Composite Objects\obj\Debug\netcoreapp3.1\Composite Objects.AssemblyInfo.cs
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\2- Structural\3- Composite\Composite Objects\obj\Debug\netcoreapp3.1\Composite Objects.dll
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\2- Structural\3- Composite\Composite Objects\obj\Debug\netcoreapp3.1\Composite Objects.pdb
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\2- Structural\3- Composite\Composite Objects\obj\Debug\netcoreapp3.1\Composite Objects.genruntimeconfig.cache
