@@ -1,0 +1,13 @@
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\1-AbstractFactory\Abstract Factory Drinks\bin\Debug\netcoreapp3.1\Abstract Factory Drinks.exe
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\1-AbstractFactory\Abstract Factory Drinks\bin\Debug\netcoreapp3.1\Abstract Factory Drinks.deps.json
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\1-AbstractFactory\Abstract Factory Drinks\bin\Debug\netcoreapp3.1\Abstract Factory Drinks.runtimeconfig.json
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\1-AbstractFactory\Abstract Factory Drinks\bin\Debug\netcoreapp3.1\Abstract Factory Drinks.runtimeconfig.dev.json
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\1-AbstractFactory\Abstract Factory Drinks\bin\Debug\netcoreapp3.1\Abstract Factory Drinks.dll
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\1-AbstractFactory\Abstract Factory Drinks\bin\Debug\netcoreapp3.1\Abstract Factory Drinks.pdb
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\1-AbstractFactory\Abstract Factory Drinks\obj\Debug\netcoreapp3.1\Abstract Factory Drinks.csprojAssemblyReference.cache
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\1-AbstractFactory\Abstract Factory Drinks\obj\Debug\netcoreapp3.1\Abstract Factory Drinks.csproj.CoreCompileInputs.cache
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\1-AbstractFactory\Abstract Factory Drinks\obj\Debug\netcoreapp3.1\Abstract Factory Drinks.AssemblyInfoInputs.cache
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\1-AbstractFactory\Abstract Factory Drinks\obj\Debug\netcoreapp3.1\Abstract Factory Drinks.AssemblyInfo.cs
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\1-AbstractFactory\Abstract Factory Drinks\obj\Debug\netcoreapp3.1\Abstract Factory Drinks.dll
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\1-AbstractFactory\Abstract Factory Drinks\obj\Debug\netcoreapp3.1\Abstract Factory Drinks.pdb
+C:\Users\remio\OneDrive\Desktop\Learning C Sharp Design Patterns - Working Files\1-Creational Patterns\1-AbstractFactory\Abstract Factory Drinks\obj\Debug\netcoreapp3.1\Abstract Factory Drinks.genruntimeconfig.cache

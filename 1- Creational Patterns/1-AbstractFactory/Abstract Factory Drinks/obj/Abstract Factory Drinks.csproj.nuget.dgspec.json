@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\remio\\OneDrive\\Desktop\\Learning C Sharp Design Patterns - Working Files\\1-Creational Patterns\\1-AbstractFactory\\AbstractFactory Object Example\\AbstractFactory Object Example.csproj": {}
+    "C:\\Users\\remio\\OneDrive\\Desktop\\Learning C Sharp Design Patterns - Working Files\\1-Creational Patterns\\1-AbstractFactory\\Abstract Factory Drinks\\Abstract Factory Drinks.csproj": {}
   },
   "projects": {
-    "C:\\Users\\remio\\OneDrive\\Desktop\\Learning C Sharp Design Patterns - Working Files\\1-Creational Patterns\\1-AbstractFactory\\AbstractFactory Object Example\\AbstractFactory Object Example.csproj": {
+    "C:\\Users\\remio\\OneDrive\\Desktop\\Learning C Sharp Design Patterns - Working Files\\1-Creational Patterns\\1-AbstractFactory\\Abstract Factory Drinks\\Abstract Factory Drinks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\remio\\OneDrive\\Desktop\\Learning C Sharp Design Patterns - Working Files\\1-Creational Patterns\\1-AbstractFactory\\AbstractFactory Object Example\\AbstractFactory Object Example.csproj",
-        "projectName": "AbstractFactory Object Example",
-        "projectPath": "C:\\Users\\remio\\OneDrive\\Desktop\\Learning C Sharp Design Patterns - Working Files\\1-Creational Patterns\\1-AbstractFactory\\AbstractFactory Object Example\\AbstractFactory Object Example.csproj",
+        "projectUniqueName": "C:\\Users\\remio\\OneDrive\\Desktop\\Learning C Sharp Design Patterns - Working Files\\1-Creational Patterns\\1-AbstractFactory\\Abstract Factory Drinks\\Abstract Factory Drinks.csproj",
+        "projectName": "Abstract Factory Drinks",
+        "projectPath": "C:\\Users\\remio\\OneDrive\\Desktop\\Learning C Sharp Design Patterns - Working Files\\1-Creational Patterns\\1-AbstractFactory\\Abstract Factory Drinks\\Abstract Factory Drinks.csproj",
         "packagesPath": "C:\\Users\\remio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\remio\\OneDrive\\Desktop\\Learning C Sharp Design Patterns - Working Files\\1-Creational Patterns\\1-AbstractFactory\\AbstractFactory Object Example\\obj\\",
+        "outputPath": "C:\\Users\\remio\\OneDrive\\Desktop\\Learning C Sharp Design Patterns - Working Files\\1-Creational Patterns\\1-AbstractFactory\\Abstract Factory Drinks\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\remio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -50,9 +50,6 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App.WindowsForms": {
-              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"

@@ -7,7 +7,7 @@ namespace AbstractFactory_Object_Example.Models.Student.Abstract
     {
         private String _Name = "";
         private String _Surname = "";
-        public virtual string Type { get; set; }//virtual property to be overriden which contains disticnt behaviour
+        public abstract string Type { get; set; }//virtual property to be overriden which contains disticnt behaviour
 
         //Common behaviour for the distinct models
 
